@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tlentick.github.io/sitemap.html.gz
+Sitemap: https://tlentick.github.io/app/sitemap.html.gz
+Sitemap: https://tlentick.github.io/assets/sitemap.html.gz
+Sitemap: https://tlentick.github.io/css/sitemap.html.gz
+Sitemap: https://tlentick.github.io/includes/sitemap.html.gz
+Sitemap: https://tlentick.github.io/item/sitemap.html.gz
+Sitemap: https://tlentick.github.io/src/sitemap.html.gz
